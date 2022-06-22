@@ -89,12 +89,8 @@ def movie_recommend(movie):
 movie_recommend("Iron Man")
 
 
-# Colloborative Based
+# Next We will see Colloborative Based ...
 
-# User Feature Matrix x Movie Feature Matrix = Rating Matrix - Preference Data - Incomplete
-# Deep Learning -> Pattern -> Guess values of matrices (Users Features & Items Features) to match the existing data of rating matrix
-# -> Users Latent Factors matrix & Movie Latent Factors matrix ->
-# Complete Rating Matrix -> Back calculate to match the user
 
 
 
